@@ -1,0 +1,19 @@
+{
+  "name": "rn-animated-border-view",
+  "version": "1.0.0",
+  "description": "A customizable animated border component for React Native using Reanimated",
+  "main": "src/index.js",
+  "author": "Bhavesh",
+  "license": "MIT",
+  "keywords": [
+    "react-native",
+    "animated",
+    "border",
+    "reanimated"
+  ],
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "react-native-reanimated": ">=2.0.0"
+  }
+}
