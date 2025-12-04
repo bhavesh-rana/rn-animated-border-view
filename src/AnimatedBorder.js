@@ -17,6 +17,7 @@ const AnimatedBorder = ({
   backgroundColor = 'transparent',
   boxExtra = 10,
   containerStyle,
+  children
 }) => {
   const [container, setContainer] = useState({ w: 0, h: 0 });
 
@@ -63,6 +64,7 @@ const AnimatedBorder = ({
           setContainer({ w: width, h: height });
         }}
       >
+        {children}
         {container.w &&
           container.h &&
           Array.from({ length: totalSegments }).map((_, index) => (
