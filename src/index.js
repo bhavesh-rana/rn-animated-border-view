@@ -1,1 +1,2 @@
-export { default } from './AnimatedBorder';
+import AnimatedBorder from './AnimatedBorder';
+export default AnimatedBorder;
