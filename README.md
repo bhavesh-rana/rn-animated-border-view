@@ -14,7 +14,7 @@ It allows you to create **smooth, continuous clockwise border animations** with 
 
 ## Screenshots
 
-![App Screenshot](https://s1.ezgif.com/tmp/ezgif-1ab9a6de1fc7ad41.gif)
+![App Screenshot](https://res.cloudinary.com/dxytjw6sw/image/upload/v1764911965/ScreenRecording2025-12-04at3.04.35PM-ezgif.com-video-to-gif-converter_focwlc.gif)
 
 ## Installation
 
